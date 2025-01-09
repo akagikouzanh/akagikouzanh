@@ -1,20 +1,31 @@
-![](https://raw.githubusercontent.com/akagikouzanh/akagikouzanh/output/github-snake.svg)
-
 # Hi 👋, I'm akagikouzanh
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akagikouzanh/akagikouzanh/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akagikouzanh/akagikouzanh/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akagikouzanh/akagikouzanh/output/github-snake.svg">
+</picture>
+
 <!-- Profile Views -->
+
 ![](https://komarev.com/ghpvc/?username=akagikouzanh&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- GitHub various status -->
+
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=akagikouzanh)
 
 ## Connect with me:
+
 <a href="https://instagram.com/akagikouzanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akagikouzanh" height="30" width="40" /></a>
+
 </p>
 
 ## Languages and Tools:
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akagikouzanh&show_icons=true&locale=en&layout=compact" alt="akagikouzanh" /></p>
 
 ### Infrastructure:
+
 <p align="left">
 <!-- AWS -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -31,6 +42,7 @@
 </p>
 
 ### Frontend:
+
 <p align="left">
 <!-- CSS3 -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -45,6 +57,7 @@
 </p>
 
 ### Backend:
+
 <p align="left">
 <!-- Go -->
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -53,6 +66,7 @@
 </p>
 
 ### Library, Framework, Middleware, Tools:
+
 <p align="left">
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>

@@ -18,6 +18,6 @@ Python and Go developer with occasional use of JavaScript and TypeScript.🙌
 </picture>
 
 <div style="display: flex; align-items: flex-start;">
-  <img style="margin-right: 20px; height: 200px" src="https://github-readme-stats.vercel.app/api/?username=akagikouzanh&show_icons=true&theme=vue-dark" />
-  <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagikouzanh&theme=vue-dark&layout=compact" />
+  <img style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api/?username=akagikouzanh&show_icons=true&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagikouzanh&theme=vue-dark&layout=compact" />
 </div>

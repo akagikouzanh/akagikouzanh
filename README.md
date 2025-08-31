@@ -1,13 +1,15 @@
 # Hi 👋, I'm akagikouzanh
 
-Python and Go developer with occasional use of JavaScript and TypeScript.🙌
+- I want to become a Pythonista who can write clean, elegant code.
+- Kintarō scares me.
+- The work of learning is the work of discovering what I didn’t know.
 
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=akagikouzanh&label=Profile%20views&color=0e75b6&style=flat)
 
 ## ⛰️Skills
 
-![skills](https://skillicons.dev/icons?i=python,go,js,ts,vue,react,next,nuxt,tailwind,vuetify,aws,gcp,mysql,git,github,githubactions,figma&show_icons=true&locale=ja&theme=light&perline=6)
+![skills](https://skillicons.dev/icons?i=python,go,vue,tailwind,vuetify,aws,gcp,mysql,git,github,githubactions&show_icons=true&locale=ja&theme=light&perline=6)
 
 ## 📈Activities
 
